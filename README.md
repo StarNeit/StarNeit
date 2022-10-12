@@ -2,15 +2,13 @@
 
 - AWS Serverless (AWS Lambda, API Gateway, Cognito, Appsync, Fargate, DynamoDB, SNS, CloudFormation)
 - Docker / Kubernetes / Linux / Nginx
-- React / React Native / Vue / Angular
-- Django / Laravel / Node.js / Ruby on Rails
-- TypeScript, Javascript, Bootstrap, TailWind
+- React / React Native / Vue / Angular / Next.js / Nuxt.js
+- Django / Laravel / Ruby on Rails
 - Node.js / Nest.js
+- TypeScript, Javascript, Bootstrap, TailWind
 - PWA (Progressive Web App)
 - SPA (Single Page App)
 - GraphQL
-- HTML5
-- CSS3 (with BEM)
 - SASS & LESS (Dynamic CSS)
 - JSS (CSS in JS)
 - NoSQL DB
