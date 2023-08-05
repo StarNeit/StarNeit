@@ -14,16 +14,6 @@
 - NoSQL DB
 - SQL DB (MYSQL / Postgresql)
 
-### SOFTWARE ARCHITECTURE:
-- Domain-driven design
-- Code Sharing and Reusability
-- Design Patterns
-- Development Environment Setup (Editors, Code quality assurance, Utilities, Building, Deployment)
-- Directory Structure
-- Dependencies Management
-- Test Environment (unit tests, functional tests, e2e tests, test coverage)
-- Code Quality
-
 #### I am good in ❤
 
 <p>
