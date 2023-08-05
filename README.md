@@ -23,16 +23,6 @@
 - Dependencies Management
 - Test Environment (unit tests, functional tests, e2e tests, test coverage)
 - Code Quality
- 
-### CLOUD:
-- AWS AppSync (GraphQL API)
-- AWS Lambda
-- AWS DynamoDB
-- AWS API Gateway
-- AWS Cognito
-- AWS Fargate
-- AWS SNS/SQS
-- AWS CloudFormation
 
 #### I am good in ❤
 
