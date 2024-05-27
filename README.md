@@ -1,4 +1,4 @@
-### Senior Cloud Software Architect and Full Stack Engineer
+### Senior Full Stack Developer
 
 - AWS Serverless (AWS Lambda, API Gateway, Cognito, Appsync, Fargate, DynamoDB, SNS, CloudFormation)
 - Docker / Kubernetes / Linux / Nginx
