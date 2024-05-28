@@ -21,6 +21,32 @@
 
 [Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
 
+[Record in TypeScript: Unveiling Its Surprising Power](https://dev.to/brainiacneit/record-in-typescript-unveiling-its-surprising-power-30kf)
+
+[Preventing side effect functions in Flutter](https://dev.to/brainiacneit/preventing-side-effect-functions-in-flutter-19df)
+
+[Differentiating Material and Cupertino in Flutter](https://dev.to/brainiacneit/differentiating-material-and-cupertino-in-flutter-1pll)
+
+[Authentication with middlewares in NextJS](https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p)
+
+[Simplify Infinite Loading with React Query](https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj)
+
+[State Management with RxJS and React](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
+
+[Differentiating Zustand and Redux](https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6)
+
+[Utilizing VisX for React Data Visualization](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
+
+[Enhance your TypeScript with Type Guards](https://dev.to/brainiacneit/enhance-your-typescript-with-type-guards-1f2h)
+
+[Differentiating onclick and addEventListener in JavaScript](https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke)
+
+[Underrated React Hook - useSyncExternalStore](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
+
+[Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
+
+[Understanding TypeScript “as” Keyword](https://dev.to/brainiacneit/understanding-typescript-as-keyword-11db)
+
 #### I am good in ❤
 
 <p>
