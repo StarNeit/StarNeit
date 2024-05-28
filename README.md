@@ -15,7 +15,11 @@
 - SQL DB (MYSQL / Postgresql)
 
 ### My Articles
-#### https://dev.to/brainiacneit
+[Single Page Application: Authentication and Authorization in Angular](https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2)
+
+[Generating Optimized Image Formats with Node.js](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
+
+[Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
 
 #### I am good in ❤
 
