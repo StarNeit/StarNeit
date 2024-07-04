@@ -15,6 +15,10 @@
 - SQL DB (MYSQL / Postgresql)
 
 ### My Articles
+[Generating Optimized Image Formats with Node.js](https://dev.to/starneit/generating-optimized-image-formats-with-nodejs-4955)
+
+[Differentiating onclick and addEventListener in JavaScript](https://dev.to/starneit/differentiating-onclick-and-addeventlistener-in-javascript-bh3)
+
 [Understanding TypeScript “as” Keyword](https://dev.to/starneit/understanding-typescript-as-keyword-2ne4)
 
 [Single Page Application: Authentication and Authorization in Angular](https://dev.to/starneit/single-page-application-authentication-and-authorization-in-angular-118b)
