@@ -33,6 +33,12 @@
 
 [Record in TypeScript: Unveiling Its Surprising Power](https://dev.to/starneit/record-in-typescript-unveiling-its-surprising-power-508f)
 
+[Underrated React Hook - useSyncExternalStore](https://dev.to/starneit/underrated-react-hook-usesyncexternalstore-4igj)
+
+[State Management with RxJS and React](https://dev.to/starneit/state-management-with-rxjs-and-react-32km)
+
+[Differentiating Zustand and Redux](https://dev.to/starneit/differentiating-zustand-and-redux-426i)
+
 
 #### I am good in ❤
 
