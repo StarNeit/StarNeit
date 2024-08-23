@@ -1,7 +1,8 @@
 ### Senior Developer
 
-- AWS Serverless (AWS Lambda, API Gateway, Cognito, Appsync, Fargate, DynamoDB, SNS, CloudFormation)
-- Docker / Kubernetes / Linux / Nginx
+- AI / Machine Learning (TensorFlow, PyTorch, or Keras)
+- Deep Learning / Natural Language Processing (NLP)
+- AWS / Docker / Kubernetes / Linux / Nginx
 - React / React Native / Vue / Angular / Next.js / Nuxt.js
 - Django / Laravel / Ruby on Rails
 - Node.js / Nest.js
