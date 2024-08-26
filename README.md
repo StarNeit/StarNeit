@@ -4,7 +4,7 @@
 - Deep Learning / Natural Language Processing (NLP)
 - AWS / Docker / Kubernetes / Linux / Nginx
 - React / React Native / Vue / Angular / Next.js / Nuxt.js
-- Django / Laravel / Ruby on Rails
+- Django(Python) / Laravel(PHP) / .NET(C#) / StringBoot(Java)
 - Node.js / Nest.js
 - TypeScript, Javascript, Bootstrap, TailWind
 - PWA (Progressive Web App)
