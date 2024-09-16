@@ -1,12 +1,10 @@
 ### Senior Developer
 
-- AI / Machine Learning (TensorFlow, PyTorch, or Keras)
-- Deep Learning / Natural Language Processing (NLP)
-- AWS / Docker / Kubernetes / Linux / Nginx
 - React / React Native / Vue / Angular / Next.js / Nuxt.js
 - Django(Python) / Laravel(PHP) / .NET(C#) / StringBoot(Java)
 - Node.js / Nest.js
 - TypeScript, Javascript, Bootstrap, TailWind
+- AWS / Docker / Kubernetes / Linux / Nginx
 - PWA (Progressive Web App)
 - SPA (Single Page App)
 - GraphQL
@@ -14,6 +12,8 @@
 - JSS (CSS in JS)
 - NoSQL DB
 - SQL DB (MYSQL / Postgresql)
+- AI / Machine Learning (TensorFlow, PyTorch, or Keras)
+- Deep Learning / Natural Language Processing (NLP)
 
 ### My Articles
 [Generating Optimized Image Formats with Node.js](https://dev.to/starneit/generating-optimized-image-formats-with-nodejs-4955)
