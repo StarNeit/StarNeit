@@ -5,15 +5,11 @@
 - Node.js / Nest.js
 - TypeScript, Javascript, Bootstrap, TailWind
 - AWS / Docker / Kubernetes / Linux / Nginx
-- PWA (Progressive Web App)
-- SPA (Single Page App)
 - GraphQL
-- SASS & LESS (Dynamic CSS)
-- JSS (CSS in JS)
-- NoSQL DB
-- SQL DB (MYSQL / Postgresql)
+- NoSQL, SQL DB (MongoDB, MYSQL / Postgresql)
 - AI / Machine Learning (TensorFlow, PyTorch, or Keras)
 - Deep Learning / Natural Language Processing (NLP)
+- Flutter / Dart
 
 ### My Articles
 [Generating Optimized Image Formats with Node.js](https://dev.to/starneit/generating-optimized-image-formats-with-nodejs-4955)
