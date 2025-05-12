@@ -2,7 +2,7 @@
 
 - React / React Native / Vue / Angular / Next.js / Nuxt.js
 - Django(Python) / Laravel(PHP) / .NET(C#) / StringBoot(Java)
-- Node.js / Nest.js
+- Node.js / Nest.js / GoLang
 - TypeScript, Javascript, Bootstrap, TailWind
 - AWS / Docker / Kubernetes / Linux / Nginx
 - GraphQL
